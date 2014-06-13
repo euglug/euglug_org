@@ -53,8 +53,8 @@
 	body {
 		background: url('/img/NewTux.svg');
 		background-repeat: no-repeat;
-		background-size: cover;
-		background-opacity: 30%
+		background-size: 20% cover;
+		background-blend-mode: darken;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -77,7 +77,10 @@
 	h6 { font-size: 14px; line-height: 21px; }
 	.subheader { color: #777; }
 
-	p { margin: 0 0 20px 0; }
+	p { margin: 0 0 20px 0; 
+	  background-color: #ffffff;
+	  opacity: 0.75;
+	  }
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
