@@ -51,7 +51,8 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
+		background: url('/img/NewTux.svg');
+		background-size: auto;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
