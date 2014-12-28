@@ -51,9 +51,9 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: url('/img/NewTux.svg');
+		background: url('../img/NewTux.svg');
 		background-repeat: no-repeat;
-		background-size: 20% cover;
+		background-size: 10% auto;
 		background-blend-mode: darken;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
