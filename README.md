@@ -1,5 +1,4 @@
 euglug_org
 ==========
 
-The Eugene Unix, Gnu, Linux User Group needs a website.
-
+The Eugene Unix, Gnu, Linux User Group (EUGLUG) website.
