@@ -51,10 +51,6 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: url('../img/NewTux.svg');
-		background-repeat: no-repeat;
-		background-size: 10% auto;
-		background-blend-mode: darken;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -97,6 +93,8 @@
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
+/*      Special characters  */
+	.nixpua { font-family: "Linux Libertine"; }
 
 /* #Links
 ================================================== */
